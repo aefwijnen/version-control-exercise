@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Testing from the notepad
+=======
+Testing my_answers.txt
+>>>>>>> 01213c42f129c1c4d69af863371c400f21892860
